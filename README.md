@@ -179,5 +179,12 @@ As seen from the table above, the % Passing Math, % Passing Reading, and Overall
 As seen from the table above, the percentage of students passing math, reading and overall, is considerably lower for District schools than Charter schools
 
 ## Overall Summary
+3 main inferences:
+
+- Based on the analysis of school and student performances, it is clear that while there is no change to the average math and reading scores, there is a considerable increase in the percentage of students who pass math, reading and overall percentage for Thomas High School, once the 9th grade scores are excluded
+
+- It can also be inferred that the larger schools have a significantly lower passing percentage than small and medium sized schools
+
+- District schools have a significantly lower passing percentage than Charter schools
 
 
