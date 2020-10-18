@@ -144,6 +144,16 @@ per_school_summary_df.loc[['Thomas High School'], ['% Overall Passing']] = float
 
 As seen from above, the % Passing Math, % Passing Reading, and % Overall Passing numbers for the district are marginally higher when including THS 9th grade math and reading scores, but once they are changed to NaN values, there is a marginal drop in the percentages of the 3 metrics.
 
-###### 
+###### Math and Reading scores by grade including 9th grade scores
+[Math scores by grade]()
+
+[Reading scores by grade]()
+
+###### Math and Reading scores by grade excluding 9th grade scores
+[Math scores by grade]()
+
+[Reading scores by grade]()
+
+
 
 ## Overall Summary
