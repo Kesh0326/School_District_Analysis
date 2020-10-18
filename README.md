@@ -164,6 +164,11 @@ As seen from the tables above, the 9th grade math and reading scores have been r
 
 Based on the tables above, there is a marginal change in the average reading and math scores upon excluding the 9th grade scores for Thomas High School, which has no impact on the spending bins
 
+###### Scores by School Spending - Summary
+![Scores by School Spending]( )
+
+Based on the table above, there is an inverse relationship between the amount spent by schools and the percentage of students passing math, reading and overall percentage i.e., the greater the amount spent by the school, the lower the passing percentages
+
 ###### Scores by School Size
 ![Scores by School Size](School_District_Analysis/Resources/Scores_by_School_Size.png)
 
