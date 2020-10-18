@@ -18,11 +18,13 @@
 ##### Get the number of 10th-12th graders from Thomas High School (THS).
 
  - THS 10th graders count
-``` thomas_high_10th_graders_count = school_data_complete_df.loc[(school_data_complete_df['school_name'] == "Thomas High School") & (school_data_complete_df['grade'] == "10th"), ['Student ID']].count()
-
+``` 
+thomas_high_10th_graders_count = school_data_complete_df.loc[(school_data_complete_df['school_name'] == "Thomas High School") & (school_data_complete_df['grade'] == "10th"), ['Student ID']].count()
+```
  - THS 11th graders count
-``` thomas_high_11th_graders_count = school_data_complete_df.loc[(school_data_complete_df['school_name'] == "Thomas High School") & (school_data_complete_df['grade'] == "11th"), ['Student ID']].count()
-
+``` 
+thomas_high_11th_graders_count = school_data_complete_df.loc[(school_data_complete_df['school_name'] == "Thomas High School") & (school_data_complete_df['grade'] == "11th"), ['Student ID']].count()
+```
  - THS 12th graders count
 ``` thomas_high_12th_graders_count = school_data_complete_df.loc[(school_data_complete_df['school_name'] == "Thomas High School") & (school_data_complete_df['grade'] == "12th"), ['Student ID']].count()
 
