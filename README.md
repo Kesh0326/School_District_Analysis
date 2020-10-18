@@ -124,7 +124,7 @@ per_school_summary_df.loc[['Thomas High School'], ['% Overall Passing']] = float
 ##### District Summary
 ###### Including THS 9th grade math and reading scores
 
-![District Summary with 9th grade math and reading scores]()
+![District Summary with 9th grade math and reading scores](School_District_Analysis/Resources/District_Summary_including_THS_9th_grade_math_reading_scores.png)
 
 ###### Excluding THS 9th grade math and reading scores
 
