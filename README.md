@@ -157,11 +157,11 @@ As seen from above, the % Passing Math, % Passing Reading, and % Overall Passing
 As seen from the tables above, the 9th grade math and reading scores have been replaced with NaN values so that incorrect values don't distort Thomas High School's performance levels in comparison with the other schools in the district
 
 ###### Math and Reading scores by school spending including 9th grade scores
-![Average Math and Reading scores by spending]()
+![Average Math and Reading scores by spending](School_District_Analysis/Resources/Average_Math_Reading_scores_Spending_Ranges_including_9th_grade_scores.png)
 
 ###### Math and Reading scores by school spending excluding 9th grade scores
-![Average Math and Reading scores by spending]()
+![Average Math and Reading scores by spending](School_District_Analysis/Resources/Average_Math_Reading_scores_Spending_Ranges_excluding_9th_grade_scores.png)
 
-
+Based on the tables above, there is a marginal change in the average reading and math scores upon excluding the 9th grade scores for Thomas High School, which has no impact on the spending bins
 
 ## Overall Summary
