@@ -7,11 +7,11 @@
 ## Results
 #### School Summary including Thomas High School 9th grade student's math and reading scores
 
-![Summary by School]( )
+![Summary by School](School_District_Analysis/Resources/School_Summary_including_THS_9th_grade_math_reading_scores.png)
 
 #### School Summary excluding Thomas High School 9th grade student's math and reading scores
 
-![Summary by School]( )
+![Summary by School](School_District_Analysis/Resources/School_Summary_excluding_THS_9th_grade_math_reading_scores.png)
 
 #### Approach and code snippets to exclude THS 9th grade math and reading scores from overall metrics
 
@@ -125,6 +125,8 @@ per_school_summary_df.loc[['Thomas High School'], ['% Overall Passing']] = float
 ###### Including THS 9th grade math and reading scores
 
 ![District Summary with 9th grade math and reading scores](School_District_Analysis/Resources/District_Summary_including_THS_9th_grade_math_reading_scores.png)
+
+###### Excluding THS 9th grade math and reading scores
 
 ![District Summary without 9th grade math and reading scores](School_District_Analysis/Resources/District_Summary_excluding_THS_9th_grade_math_reading_scores.png)
 
