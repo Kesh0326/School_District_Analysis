@@ -169,8 +169,15 @@ Based on the tables above, there is a marginal change in the average reading and
 
 As seen from the table above, 8 of the 15 schools are categorized under the 'large' spending bin, 5 schools under 'medium', and just 2 schools under the 'small' bin category
 
+![Performance by School Size](School_District_Analysis/Resources/Grade_performance_by_School_Size.png)
+
+As seen from the table above, the % Passing Math, % Passing Reading, and Overall Passing % for large schools is considerably lower than those of small and medium schools 
+
 ###### Scores by School Type
 ![Scores by School Type]()
 
+As seen from the table above, the percentage of students passing math, reading and overall, is considerably lower for District schools than Charter schools
 
 ## Overall Summary
+
+
