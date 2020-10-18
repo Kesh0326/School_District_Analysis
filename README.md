@@ -17,11 +17,11 @@ As seen from above, there is a huge percentage increase in the % Passing Math (~
 
 #### Performance of THS relative to other schools including 9th grade math and reading scores
 
-![Performance of Schools]()
+![Performance of Schools](School_District_Analysis/Resources/THS_performance_including_9th_grade_math_reading_scores.png)
 
 #### Performance of THS relative to other schools excluding 9th grade math and reading scores
 
-![Performance of Schools]()
+![Performance of Schools](School_District_Analysis/Resources/THS_performance_excluding_9th_grade_math_reading_scores.png)
 
 As seen from the tables above, Thomas High School's position changes from being 8th in the performance table based on % Overall Passing scores, to being 2nd once the 9th grade scores are excluded
 
