@@ -164,4 +164,13 @@ As seen from the tables above, the 9th grade math and reading scores have been r
 
 Based on the tables above, there is a marginal change in the average reading and math scores upon excluding the 9th grade scores for Thomas High School, which has no impact on the spending bins
 
+###### Scores by School Size
+![Scores by School Size](School_District_Analysis/Resources/Scores_by_School_Size.png)
+
+As seen from the table above, 8 of the 15 schools are categorized under the 'large' spending bin, 5 schools under 'medium', and just 2 schools under the 'small' bin category
+
+###### Scores by School Type
+![Scores by School Type]()
+
+
 ## Overall Summary
