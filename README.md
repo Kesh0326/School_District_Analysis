@@ -145,14 +145,22 @@ per_school_summary_df.loc[['Thomas High School'], ['% Overall Passing']] = float
 As seen from above, the % Passing Math, % Passing Reading, and % Overall Passing numbers for the district are marginally higher when including THS 9th grade math and reading scores, but once they are changed to NaN values, there is a marginal drop in the percentages of the 3 metrics.
 
 ###### Math and Reading scores by grade including 9th grade scores
-[Math scores by grade](School_District_Analysis/Resources/Math_scores_by_grade_including_9th_grade_scores.png)
+![Math scores by grade](School_District_Analysis/Resources/Math_scores_by_grade_including_9th_grade_scores.png)
 
-[Reading scores by grade](School_District_Analysis/Resources/Reading_scores_by_grade_including_9th_grade_scores.png)
+![Reading scores by grade](School_District_Analysis/Resources/Reading_scores_by_grade_including_9th_grade_scores.png)
 
 ###### Math and Reading scores by grade excluding 9th grade scores
-[Math scores by grade](School_District_Analysis/Resources/Math_scores_by_grade_excluding_9th_grade_scores.png)
+![Math scores by grade](School_District_Analysis/Resources/Math_scores_by_grade_excluding_9th_grade_scores.png)
 
-[Reading scores by grade](School_District_Analysis/Resources/Reading_scores_by_grade_excluding_9th_grade_scores.png)
+![Reading scores by grade](School_District_Analysis/Resources/Reading_scores_by_grade_excluding_9th_grade_scores.png)
+
+As seen from the tables above, the 9th grade math and reading scores have been replaced with NaN values so that incorrect values don't distort Thomas High School's performance levels in comparison with the other schools in the district
+
+###### Math and Reading scores by school spending including 9th grade scores
+![Average Math and Reading scores by spending]()
+
+###### Math and Reading scores by school spending excluding 9th grade scores
+![Average Math and Reading scores by spending]()
 
 
 
